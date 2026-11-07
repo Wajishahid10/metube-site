@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "version": 1,
+  "updated": "2026-11-07",
+  "note": "MeTube starter channels. Suggestions only: a parent approves every channel in the app, and MeTube's normal checks still apply. Draft by Claude; each entry to be reviewed by the maintainer. Channel IDs verified on YouTube on 2026-11-07.",
+  "packs": [
+    {
+      "id": "islamic-urdu",
+      "name": "Islamic stories (Urdu)",
+      "description": "Prophets' stories, manners and duas in Urdu.",
+      "language": "ur",
+      "selectedByDefault": true,
+      "category": "EDUCATIONAL",
+      "channels": [
+        { "channelId": "UCkoSwUjEOt1Y7MT61b4sVvw", "name": "Omar and Hana Urdu", "note": "Islamic cartoons and nasheeds for young children, Urdu dub." },
+        { "channelId": "UCSGoX97LFYZMYUOwNUPwiUg", "name": "IQRA CARTOON URDU", "note": "Animated Quran and prophets' stories in Urdu." }
+      ]
+    },
+    {
+      "id": "islamic-english",
+      "name": "Islamic stories and poems (English)",
+      "description": "Islamic cartoons, stories and nasheeds in English.",
+      "language": "en",
+      "selectedByDefault": true,
+      "category": "EDUCATIONAL",
+      "channels": [
+        { "channelId": "UC178EmfQAV3OT-UpuO6WUMg", "name": "Omar & Hana", "note": "Islamic cartoons for young children." },
+        { "channelId": "UCIDYe6rgdROl77DDevNIcPA", "name": "MiniMuslims", "note": "Songs and stories for Muslim children." },
+        { "channelId": "UC5vfWTTPnKdFp-8s0KbqJhw", "name": "One4kids (Zaky)", "note": "Zaky and friends: Islamic learning videos." },
+        { "channelId": "UCSL4Dn-FQlvHZiSKipQZMqw", "name": "IQRA CARTOON", "note": "Non-profit studio: Quran and prophets' stories." },
+        { "channelId": "UCg8epPqw1I_KYPZt09TijSA", "name": "Muslim Kids Tv", "note": "Islamic cartoons and learning for kids." }
+      ]
+    },
+    {
+      "id": "urdu-learning",
+      "name": "Urdu learning and stories",
+      "description": "Urdu alphabet, poems and stories from Pakistan.",
+      "language": "ur",
+      "selectedByDefault": true,
+      "category": "EDUCATIONAL",
+      "channels": [
+        { "channelId": "UCIFctOKahjPacoBzJ6LEXBA", "name": "Pakkay Dost", "note": "Bilal Maqsood's Urdu puppet show: stories, poems, alphabet." },
+        { "channelId": "UC7aa7zdWkSz95elqX7hWsNw", "name": "TinyTaleem", "note": "Preschool learning in Urdu and English (formerly KIDZONIA-pk)." },
+        { "channelId": "UCNa5Bp0F7FqC3bNx9oj__Og", "name": "CEEP Official", "note": "Urdu nursery rhymes and songs." },
+        { "channelId": "UCWJca9c9sMwzSIA0Xz-ZIPw", "name": "Urdu Preschool", "note": "Urdu poems, games and story time for little ones." }
+      ]
+    },
+    {
+      "id": "early-learning-english",
+      "name": "Early learning (English)",
+      "description": "Letters, numbers, words and songs in English.",
+      "language": "en",
+      "selectedByDefault": false,
+      "category": "EDUCATIONAL",
+      "channels": [
+        { "channelId": "UCoookXUzPciGrEZEXmh4Jjg", "name": "Sesame Street", "note": "Learning with the Sesame Street friends." },
+        { "channelId": "UCG2CL6EUjG8TVT1Tpl9nJdg", "name": "Ms Rachel", "note": "Toddler learning with a real teacher: speech, words, songs." },
+        { "channelId": "UCLsooMJoIpl_7ux2jvdPB-Q", "name": "Super Simple Songs", "note": "Simple, gentle songs for learning. Mostly music." }
+      ]
+    }
+  ]
+}
